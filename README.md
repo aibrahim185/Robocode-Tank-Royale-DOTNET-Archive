@@ -9,7 +9,7 @@ This repository is a collection of .NET-based bots for [Robocode Tank Royale](ht
 
 ![java_6GrU8pkDHv](https://github.com/user-attachments/assets/59482aef-7db0-4891-9e58-b4ae941e8403)
 
-Robocode Tank Royale is a modern, cross-platform version of the classic Robocode game. It allows you to create bots using various programming languages and run them in a competitive AI battle simulation. Learn more here:
+Robocode Tank Royale is a modern, cross-platform version of the classic Robocode game. It allows you to create bots using various programming languages and run them in a competitive battle simulation. Learn more here:
 
 - 🌐 Website: [https://robocode-dev.github.io/](https://robocode-dev.github.io/)
 - 📦 GitHub: [https://github.com/robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale)  
