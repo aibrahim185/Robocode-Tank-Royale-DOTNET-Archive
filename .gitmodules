@@ -4,3 +4,6 @@
 [submodule "woff"]
 	path = woff
 	url = https://github.com/aibrahim185/woff.git
+[submodule "meong"]
+	path = meong
+	url = https://github.com/aibrahim185/meong.git
