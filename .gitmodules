@@ -1,0 +1,3 @@
+[submodule "tank-royale"]
+	path = tank-royale
+	url = https://github.com/robocode-dev/tank-royale.git
